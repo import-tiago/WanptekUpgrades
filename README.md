@@ -14,6 +14,23 @@ These are the modifications I made to my Wanptek TPS3010 power supply to enhance
 
 ---
 
+## 3D Models for Buttons
+
+Here are the STL files for each button in the Wanptek TPS3010 upgrade:
+
+1. **ADJ Button**  
+   [Download ADJ v15 STL](3d%20models/ADJ%20v15.stl)
+
+2. **OCP Button**  
+   [Download OCP v3 STL](3d%20models/OCP%20v3.stl)
+
+3. **ON/OFF Button**  
+   [Download ON_OFF v4 STL](3d%20models/ON_OFF%20v4.stl)
+
+4. **OUT Button**  
+   [Download OUT v13 STL](3d%20models/OUT%20v13.stl)
+
+
 ## 4mm Banana Jacks
 
 For the upgrade, I used **4mm B19 Banana Jacks** from **BBC Tech**.
